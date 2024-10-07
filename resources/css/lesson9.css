@@ -1,13 +1,15 @@
 p {
-background-color: green;
-color: purple;
+    background-color: green;
+    color: purple;
+    font-family: serif;
 }
 h1{
-font-size: 3rem;
-text-align: center;
+    font-size: 3rem;
+    text-align: center;
+    font-family: cursive;
 }
 h2{
-text-decoration: underline;
+    text-decoration: underline;
 }
 header{
 
@@ -15,9 +17,12 @@ header{
 body{
 
 }
+a{
+    font-family: sans-serif;
+}
 #destinations{
-background-color: greenyellow;
+    background-color: greenyellow;
 }
 .section{
-color: turquoise;
+    color: turquoise;
 }

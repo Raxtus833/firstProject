@@ -4,6 +4,10 @@ color: purple;
 }
 h1{
 font-size: 3rem;
+text-align: center;
+}
+h2{
+text-decoration: underline;
 }
 header{
 

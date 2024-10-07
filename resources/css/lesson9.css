@@ -1,16 +1,16 @@
 p {
 background-color: green;
-color: rgb(112, 196, 126)
+color: purple;
 }
 h1{
-background-color: rgb(2, 44, 8);
-color: #a4ecc0
+font-size: 3rem;
 }
-h2{
-background-color: rgb(3, 73, 40);
-color: rgb(64, 107, 9)
+header{
+
 }
-h3{
-background-color: rgb(51, 92, 55);
-color: rgb(99, 196, 139)
+body{
+
+}
+#destinations{
+background-color: greenyellow;
 }

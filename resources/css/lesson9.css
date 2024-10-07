@@ -1,12 +1,12 @@
 p {
     background-color: green;
     color: 000;
-    font-family: serif;
+    font-family: 'Sawarbi Mincho', sans-serif;
 }
 h1{
     font-size: 3rem;
     text-align: center;
-    font-family: cursive;
+    font-family: 'Abril Fatface', cursive;
 }
 h2{
     text-decoration: underline;
@@ -21,6 +21,7 @@ a{
     font-family: sans-serif;
     font-size: 1.5rem;
     font-weight: 900;
+    text-decoration: none;
 }
 #destinations{
     background-color: greenyellow;
